@@ -1,0 +1,24 @@
+# System Requirements
+Node.js >= 18.0.0
+npm >= 8.0.0
+
+# Project Dependencies
+# Note: Since this is a Node.js project, use `npm install` to install these automatically via package.json.
+
+# Core Dependencies
+react >= 19.1.0
+react-dom >= 19.1.0
+lucide-react >= 1.16.0
+
+# Development & Build Tools
+electron >= 35.1.2
+@electron/packager >= 20.0.0
+vite >= 7.0.4
+@vitejs/plugin-react >= 4.6.0
+typescript >= 5.8.3
+concurrently >= 9.1.2
+wait-on >= 8.0.3
+
+# Installation Command
+# Run the following command in the terminal to install everything:
+# npm install
